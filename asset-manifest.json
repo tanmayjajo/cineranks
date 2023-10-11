@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cineranks/static/css/main.2435e119.css",
+    "main.js": "/cineranks/static/js/main.96b95f8d.js",
+    "static/media/movie-icon.png": "/cineranks/static/media/movie-icon.c523e283dbd9f1f33a32.png",
+    "static/media/search-icon.png": "/cineranks/static/media/search-icon.3a608aca6f4d314714c4.png",
+    "index.html": "/cineranks/index.html",
+    "main.2435e119.css.map": "/cineranks/static/css/main.2435e119.css.map",
+    "main.96b95f8d.js.map": "/cineranks/static/js/main.96b95f8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2435e119.css",
+    "static/js/main.96b95f8d.js"
+  ]
+}
